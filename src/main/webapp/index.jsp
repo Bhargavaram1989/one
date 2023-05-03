@@ -1,7 +1,6 @@
 <html>
 <body>
-	<h1>HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h2>Hey webhooks enabled </h2> 
-	<h3> through webhooks will create a job</h3>
+	<h1> we deploy the automation project</h1>
+	
 </body>
 </html>
